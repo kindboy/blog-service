@@ -42,7 +42,7 @@
     "markdown-it": "^9.0.1",
     "mongodb": "^3.2.2",
     "reflect-metadata": "^0.1.13",
-    "typeorm": "^0.2.15"
+    "typeorm": "^0.2.25"
   },
   "devDependencies": {
     "@types/dotenv": "^6.1.0",
